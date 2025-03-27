@@ -1,0 +1,66 @@
+[
+    {
+        "id": 0,
+        "question": "Have you issued a fishing license for the disabled before?",
+        "options": ["First time issuing it", "I lost it and want to reissue it", "I lost it for the second time and want to reissue it"]
+    },
+    {
+        "id": 1,
+        "question": "Do you plan fishing from boat?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 2,
+        "question": "Which season do you plan fishing?",
+        "options": ["Spring", 
+                    "Summer",
+                    "Autumn",
+                    "Winter"
+                    
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Which region you belong to ?",
+        "options": ["Central Macedonia", "Eastern Macedonia and Thrace","Athens","Nothern Aegean","Western Greece","Western Macedonia","Epirus","Thessaly","Ionian islands","Peloponesse","Crete","Middle Greece"]
+    },
+    {
+        "id": 4,
+        "question": "Which of the following categories do you belong to?",
+        "options": ["Greek citizen",
+                   "Tourist ", 
+                   "Alien with Greek nationality"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "How do you plan to manage your catch?",
+        "options": ["Personal consumption",
+                    "Fishing for research purposes",
+                   "Something else"
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Which tools and vehicles are you going to use?",
+        "options": ["Shore fishing with rod and line",
+                   "Use of live bait from boat ",
+                   "Spearfishing"
+        ]
+    },
+    {
+        "id": 7,
+        "question": " In what age period do you belong to?",
+        "options": ["Above 18 and under 60",
+                   "Over 60"
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Choose the fishing depth you are going for fishing:",
+        "options": ["From 5 meters till 50 meters",
+                   "From 50 meters till 200 meters",
+                   "Over 200 meters"
+        ]
+    }
+]

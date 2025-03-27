@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "question": "How much does the issuance of the fishing licence cost?",
+        "answer": "Total of 18 euros"
+    },
+    {
+        "id": 1,
+        "question": "What is the renewal and issuance date?",
+        "answer": "For the renewal and issuance of new fishing licence for the disabled, the start date is set as January 01, 2025, and the end date is December 31, 2025."
+    },
+    {
+        "id": 2,
+        "question": "What is the validity period of the fishing licence ?",
+        "answer": "The fshing licence is valid from the date of issuance until 3 years later."
+    },
+    {
+        "id": 3,
+        "question": "Stay informed about the protection of blue water ecosystems.",
+        "answer": "Click the link to stay informed about the endangered and protected species <a target=blank href=https://www.fishforward.eu/el/apeiloumena-eidi/><strong>FishProtection</strong></a>. "
+    },
+    {
+        "id": 4,
+        "question": "Maximum amount of fish to catch",
+        "answer": "The maximum amount of fish per person to catch is 3 kilos."
+    },
+    {
+        "id": 5,
+        "question": "Be informed to spearfishing",
+        "answer": "The website is <a target=blank href=https://marblekom.github.io/Dive/>Spearfishing</a> "  
+    }
+]

@@ -1,0 +1,178 @@
+{
+    "PublicService": {
+        "name": "Disabled Persons' Movement Card",
+        "evidence": [
+            {
+                "id": 1,
+                "evs": [
+                    {
+                        "id": "ev0001",
+                        "type": "Evidence",
+                        "name": "Application of the interested party or other authorized person",
+                        "description": "Application of the interested party or another authorized person, issued by the offices of the local Seachief or Citizen Service Centers (KEP)."
+                    },
+                    {
+                        "id": "ev0009",
+                        "type": "Evidence",
+                        "name": "Identity Card of the Interested Party or a photocopy of it",
+                        "description": "Identity Card of the Interested Party or a photocopy of it"
+                    },
+                    {
+                        "id": "ev0010",
+                        "type": "Evidence",
+                        "name": "Declaration of Intent to Issue a Fishing License",
+                        "description": "Declaration of Intent to Issue a Fishing License."
+                    },
+                    {
+                        "id": "ev0011",
+                        "type": "Evidence",
+                        "name": "2 Recent Photographs",
+                        "description": "For the issuance of a new card, two recent photographs are required, one of which is affixed to the Card, and the other is attached to the application of the beneficiary."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "evs": [
+                    {
+                        "id": "ev0013",
+                        "type": "Evidence",
+                        "name": "Clean Criminal Record",
+                        "description": "Holders of recreational fishing licenses are required to provide documentary proof of their record."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "evs": [
+                    {
+                        "id": "ev0002",
+                        "type": "Evidence",
+                        "name": "Identity Card of the Guardian or an authorized person",
+                        "description": "Identity Card of guardian or authorized person."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "evs": [
+                    {
+                        "id": "ev0004",
+                        "type": "Evidence",
+                        "name": "Authorization",
+                        "description": "In case the submission of the documents is made by an authorized person and the authorization included in the application is not drawn up, it is necessary to present the identification card of the authorized person and the relevant authorization together with the necessary supporting documents."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "evs": [
+                    {
+                        "id": "ev0003",
+                        "type": "Evidence",
+                        "name": "Guardianship Certificate",
+                        "description": "In case the submission of the documents is made by a guardian, it is necessary to present the identification card of the guardian and the guardianship certificate together with the necessary supporting documents."
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "evs": [
+                    {
+                        "id": "ev0005",
+                        "type": "Evidence",
+                        "name": "Proof of a Clean Criminal Record",
+                        "description": "The proof is provided by the Citizen Service Centers (KEP) or through the eGov website."
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "evs": [
+                    {
+                        "id": "ev0006",
+                        "type": "Evidence",
+                        "name": "Proof of Fee Payment",
+                        "description": "This proof must be issued after the payment of the corresponding fee at the Citizen Service Centers (KEP) or through the eGov website."
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "evs": [
+                    {
+                        "id": "ev0007",
+                        "type": "Evidence",
+                        "name": "Certificate of grant of an allowance from the OPEKA (Single Fund for Social Security)",
+                        "description": "Certificate of granting the allowance, for beneficiaries who receive financial assistance (disability allowance) from OAED or the relevant services, without the need for opinions of the Medical Committees. The certificate should indicate the disability percentage, the OAED decision number, the date of the Medical Committee opinion, and the expiration date of the beneficiary's entitlement to receive the allowance."
+                    },
+                    {
+                        "id": "ev0015",
+                        "type": "Evidence",
+                        "name": "Certificate of the total annual amount of the allowance from OPEKA",
+                        "description": "In order to deduct the monetary amounts received as disability allowances from OAED from the total income, a certificate of the amount to be granted by OAED will be issued by the Community Centers upon a relevant request from the interested party whose income exceeds the above-mentioned income criteria."
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "evs": [
+                    {
+                        "id": "ev0016",
+                        "type": "Evidence",
+                        "name": "Proof of loss from a police authority",
+                        "description": "In case of loss, which must be certified by the Port Authority, a recreational fishing license may be reissued. However, if lost a second time, reissuance is not possible."
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "evs": [
+                    {
+                        "id": "ev0012",
+                        "type": "Evidence",
+                        "name": "Additional photograph",
+                        "description": "When there is an urgent need for further use."
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "evs": [
+                    {
+                        "id": "ev0008",
+                        "type": "Evidence",
+                        "name": "Certificate from a hospital or an ophthalmologist.",
+                        "description": "The confirmation of full or sufficient vision is mandatory."
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "evs": [
+                    {
+                        "id": "ev0014",
+                        "type": "Evidence",
+                        "name": "A solemn declaration for the truthful submission of the supporting documents.",
+                        "description": "Beneficiaries, with their solemn declaration, are required to submit such a statement in order to ensure the proof of submission."
+                    }
+                ]
+            }
+        ],
+        "criterion_requirements": [
+            {
+                "id": "cr0001",
+                "name": "Greek Citizenship"
+            },
+            {
+                "id": "cr0002",
+                "name": "Citizens of EU Member States, as well as citizens of EEA Member States (European Economic Area)"
+            },
+            {
+                "id": "cr0003",
+                "name": "Citizens of States included in the European Convention, ratified by Law 4017/1959 (Government Gazette 246/59 A')"
+            }
+            
+        ]
+    }
+}
